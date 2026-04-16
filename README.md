@@ -1,6 +1,6 @@
 # Vrinda Store Annual Sales Analysis Dashboard (2022)
 
-![Vrinda Store Dashboard](./image/report%20image.png)
+![Vrinda Store Dashboard](./Image/Report%20Image.png)
 
 ## 📌 Project Overview
 The objective of this project is to create an end-to-end annual sales report for Vrinda Store for the year 2022. By analyzing various facets of the sales data, this project aims to understand customer behavior and identify key performance areas to drive sales growth in 2023. An interactive Excel dashboard was developed to visualize critical metrics and insights.
